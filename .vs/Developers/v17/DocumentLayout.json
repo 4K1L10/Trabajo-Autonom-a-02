@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\D0CUM3NT0\\Developers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|w:\\d0cum3nt0\\developers\\developers\\views\\recepcionequipoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|solutionrelative:developers\\views\\recepcionequipoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|w:\\d0cum3nt0\\developers\\developers\\views\\descripcionservicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|solutionrelative:developers\\views\\descripcionservicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|w:\\d0cum3nt0\\developers\\developers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|solutionrelative:developers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|w:\\d0cum3nt0\\developers\\developers\\views\\descripcionservicios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|solutionrelative:developers\\views\\descripcionservicios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|w:\\d0cum3nt0\\developers\\developers\\views\\descripcionservicios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|solutionrelative:developers\\views\\descripcionservicios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|w:\\d0cum3nt0\\developers\\developers\\views\\descripcionservicios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|solutionrelative:developers\\views\\descripcionservicios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|w:\\d0cum3nt0\\developers\\developers\\views\\descripcionservicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|solutionrelative:developers\\views\\descripcionservicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|w:\\d0cum3nt0\\developers\\developers\\views\\recepcionequipoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|solutionrelative:developers\\views\\recepcionequipoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|w:\\d0cum3nt0\\developers\\developers\\views\\recepcionequipoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|solutionrelative:developers\\views\\recepcionequipoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|w:\\d0cum3nt0\\developers\\developers\\views\\recepcionequipoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|solutionrelative:developers\\views\\recepcionequipoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|w:\\d0cum3nt0\\developers\\developers\\views\\recepcionequipoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F449613-F266-4811-87F3-C354CCDFE8B2}|Developers\\Developers.csproj|solutionrelative:developers\\views\\recepcionequipoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:22:05.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Descripcionservicios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Descripcionservicios\\Delete.cshtml",
+              "ToolTip": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Descripcionservicios\\Delete.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Descripcionservicios\\Delete.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:19:49.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Descripcionservicios\\Details.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Descripcionservicios\\Details.cshtml",
+              "ToolTip": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Descripcionservicios\\Details.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Descripcionservicios\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:19:03.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Descripcionservicios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Descripcionservicios\\Edit.cshtml",
+              "ToolTip": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Descripcionservicios\\Edit.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Descripcionservicios\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:18:00.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Descripcionservicios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Descripcionservicios\\Create.cshtml",
+              "ToolTip": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Descripcionservicios\\Create.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Descripcionservicios\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:16:50.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Descripcionservicios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Descripcionservicios\\Index.cshtml",
+              "ToolTip": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Descripcionservicios\\Index.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Descripcionservicios\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:15:27.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Recepcionequipoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Recepcionequipoes\\Delete.cshtml",
+              "ToolTip": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Recepcionequipoes\\Delete.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Recepcionequipoes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:12:27.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Recepcionequipoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Recepcionequipoes\\Details.cshtml",
+              "ToolTip": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Recepcionequipoes\\Details.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Recepcionequipoes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:10:54.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Recepcionequipoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Recepcionequipoes\\Edit.cshtml",
+              "ToolTip": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Recepcionequipoes\\Edit.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Recepcionequipoes\\Edit.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:09:07.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Recepcionequipoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Recepcionequipoes\\Create.cshtml",
+              "ToolTip": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Recepcionequipoes\\Create.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Recepcionequipoes\\Create.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:03:38.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Recepcionequipoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Recepcionequipoes\\Index.cshtml",
+              "ToolTip": "W:\\D0CUM3NT0\\Developers\\Developers\\Views\\Recepcionequipoes\\Index.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Recepcionequipoes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T23:59:55.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
